@@ -1,0 +1,40 @@
+# Title: Codewolf/hosts
+#
+# This hosts file is a a collection of hosts not in the StevenBlack hosts file
+#
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# Project home page: https://github.com/StevenBlack/hosts
+# Project releases: https://github.com/StevenBlack/hosts/releases
+#
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Start Codewolf
+
+#=====================================
+# Title: Hosts contributed by Codewolf
+0.0.0.0 t.ajrkmx3.com
+0.0.0.0 ajrkmx3.com
+0.0.0.0 imglnx.com
+0.0.0.0 www.imglnx.com
+0.0.0.0 imglnx.com
+0.0.0.0 t.frtayb.com
