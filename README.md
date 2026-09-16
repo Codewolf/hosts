@@ -1,0 +1,2 @@
+# hosts
+Blocklist for Pihole
